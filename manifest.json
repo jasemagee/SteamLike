@@ -1,0 +1,55 @@
+{
+    "manifest_version": 2,
+    "version": "5.2",
+    "name": "Steam Like",
+    "theme": {
+      "images": {
+        "theme_frame": "steam-gradient.jpg",
+        "additional_backgrounds": [ "steam-gradient.jpg"]
+      },
+      "properties": {
+        "additional_backgrounds_alignment": [ "top" ],
+        "additional_backgrounds_tiling": [ "repeat"  ]
+      },
+      "colors": {
+        "bookmark_text": "rgba(190, 190, 190)",
+        "button_background_active": "rgba(92, 126, 16)",
+        "button_background_hover": "rgba(61, 146, 175)",
+        "icons": "rgba(190, 190, 190)",
+        "icons_attention": "rgba(61, 146, 175)",
+        "frame": "rgba(21, 36, 57)",
+        "frame_inactive": "rgba(21, 36, 57)",
+        "ntp_background": "rgba(29, 37, 51)",
+        "ntp_text": "rgba(190, 190, 190)",
+        "popup": "rgba(210, 220, 229)",
+        "popup_border": "rgba(190, 190, 190)",
+        "popup_highlight": "rgba(162, 170, 179)",
+        "popup_highlight_text": "white",
+        "popup_text": "rgba(51, 74, 94)",
+        "sidebar": "rgba(210, 220, 229)",
+        "sidebar_border": "rgba(190, 190, 190)",
+        "sidebar_highlight": "rgba(162, 170, 179)",
+        "sidebar_highlight_text": "white",
+        "sidebar_text": "rgba(51, 74, 94)",
+        "tab_background_separator": "rgba(190, 190, 190)",
+        "tab_background_text": "rgba(190, 190, 190)",
+        "tab_line": "rgba(190, 190, 190)",
+        "tab_loading": "rgba(190, 190, 190)",
+        "tab_selected":  "rgba(0,0,0,0.4)",
+        "tab_text": "rgba(190, 190, 190)",      
+        "toolbar": "rgba(0, 0, 0, 0.4)",
+        "toolbar_field": "rgba(76, 92, 100)",
+        "toolbar_field_border": "black",
+        "toolbar_field_border_focus": "rgba(61, 146, 175)",
+        "toolbar_field_focus": "rgba(76, 92, 100)",
+        "toolbar_field_highlight": "grey",
+        "toolbar_field_highlight_text": "white",
+        "toolbar_field_separator": "rgba(190, 190, 190)",
+        "toolbar_field_text": "white",
+        "toolbar_field_text_focus": "white",
+        "toolbar_bottom_separator": "rgba(190, 190, 190)",
+        "toolbar_top_separator": "rgba(61, 146, 175)",
+        "toolbar_vertical_separator": "rgba(190, 190, 190)"
+      }
+    }
+  }
